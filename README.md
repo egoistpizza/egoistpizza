@@ -19,3 +19,4 @@ I also listen to protest rap, especially in Turkish. 🎶
 
 ---
 
+[![Egoist's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoistpizza)](https://github.com/anuraghazra/github-readme-stats)
