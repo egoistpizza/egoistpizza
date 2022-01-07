@@ -13,7 +13,7 @@ I am interested in developing Python for cybersecurity. 👨‍💻
 
 I am honored to meet and work with people who have the same purpose as me. 🤙
 
-I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, robotics, and IT.
+I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, robotics, crypto and IT.
 I love story-based RPG games (Telltale's The Walking Dead, Detroit: Become Human, Life is Strange) and medieval realistic RPGs like Kingdom Come: Deliverance etc. 🎮   
 I also listen to protest rap, especially in Turkish. 🎶
 
