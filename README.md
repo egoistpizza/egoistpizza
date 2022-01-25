@@ -19,9 +19,9 @@ I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, rob
 
 ### 📬 Get in touch
 
-Website: https://egoistpizza.github.io/
-E-Mail: yusufozcetin@protonmail.com      
-Discord: MjØlniR#4449
-Telegram: https://t.me/egoistpizza
+Website: https://egoistpizza.github.io/   
+E-Mail: yusufozcetin@protonmail.com         
+Discord: MjØlniR#4449   
+Telegram: https://t.me/egoistpizza   
 
 [![Egoist's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoistpizza)](https://github.com/anuraghazra/github-readme-stats)
