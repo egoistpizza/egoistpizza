@@ -25,4 +25,4 @@ I also listen to protest rap, especially in Turkish. 🎶
 E-Mail: yusufozcetin@protonmail.com      
 Discord: MjØlniR#4449
 
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufozcetin)](https://github.com/anuraghazra/github-readme-stats)
+[![Egoist's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoistpizza)](https://github.com/anuraghazra/github-readme-stats)
