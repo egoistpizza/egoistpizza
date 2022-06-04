@@ -1,26 +1,24 @@
 ### Hi there 👋
 
-I am a freelance developer and cybersecurity expert. 💻   
-I'm trying to do my best for the freedom of software and people. ⚖️  
-I support IT reform in line with the philosophy of free software. 🐧
+I am a freelance developer and cybersecurity enthusiast. 💻   
+I try to develop and contribute to FOSS software as much as I can. 🔧
+I am improving myself on machine learning and AI. 🤖
 
-I develop and contribute to completely free software. ⌨️  
-My only goal is to make people's lives easier and to raise awareness of their rights. ✊🏽
+I believe that the widespread use of free software will provide great convenience. 🌟
+I'm a GNU/Linux user and enthusiast. 🐧
 
 ---
 
-I am interested in developing Python for cybersecurity. 👨‍💻
-
-I am honored to meet and work with people who have the same purpose as me. 🤙
-
-I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, robotics, crypto and IT.   
+I am interested in developing Python. 👨‍💻
+I'd be glad to meet and work with people who have the same purpose as me. 🤙
+I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, robotics, blockchain, AI, machine learning, aerodynamics, aerial robotics, electronics and more... 💬
 
 ---
 
 ### 📬 Get in touch
 
 Website: https://egoistpizza.github.io/   
-E-Mail: yusufozcetin@protonmail.com            
+E-Mail: yusufozcetin@proton.me           
 Telegram: https://t.me/egoistpizza   
 Discord: MjØlniR#4449   
 
