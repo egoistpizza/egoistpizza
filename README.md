@@ -11,7 +11,7 @@ I'm a GNU/Linux user and enthusiast. 🐧
 
 I am interested in developing Python. 👨‍💻                                    
 I'd be glad to meet and work with people who have the same purpose as me. 🤝                     
-I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, robotics, blockchain, AI, machine learning, aerodynamics, aerial robotics, electronics and more... 💬                
+I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, blockchain, AI, machine learning, aerodynamics, aerial robotics, and more... 💬                
 
 ---
 
