@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-I am a freelance developer and cybersecurity enthusiast. 💻                              
-I try to develop and contribute to FOSS software as much as I can. 🔧                                   
-I am improving myself on machine learning and AI. 🤖
-
-I believe that the widespread use of free software will provide great convenience. 🌟                            
-I'm a GNU/Linux user and enthusiast. 🐧                  
-
----
-
-I am interested in developing Python. 👨‍💻                                    
-I'd be glad to meet and work with people who have the same purpose as me. 🤝                     
-I'd love to chat about anything related to cybersecurity, Python, GNU/Linux, AI, machine learning, aerodynamics, aerial robotics, and more... 💬                
+This area is getting ready to be rebuilt, hope to see you soon!
 
 ---
 
