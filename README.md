@@ -1,9 +1,8 @@
 ### Hello, I’m Yusuf 👋
 
-Currently studying Electrical and Electronics Engineering at the Turkish-German University, I specialize in **Machine Learning, Deep Learning and Data Science**. My work exists where mathematical theory meets large-scale data to build intelligent systems that are both computationally **efficient and robust**.
+​As an Electrical and Electronics Engineering student at the Turkish-German University, I focus on **Machine Learning, Deep Learning and Data Science**. My work exists where mathematical theory meets large-scale data to build intelligent systems that are both **computationally efficient and robust**.
 
-​Driven by a passion for **Theoretical Informatics**, I focus on the design of **optimized algorithms and data structures**. Whether I’m building neural networks or developing solutions for autonomous systems, I always prioritize algorithmic **performance and efficiency**.
-
+​Driven by a passion for **Theoretical Informatics**, my research and projects center on the **design of optimized algorithms and data structures**. Whether building neural networks or developing solutions for autonomous systems, the primary goal remains **algorithmic performance and efficiency**.
 ---
 
 ### 📫 Connect with Me
