@@ -8,6 +8,10 @@
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [in/yusuf-ozcetin](https://www.linkedin.com/in/yusuf-ozcetin)
-* **Website:** [egoistpizza.github.io](https://egoistpizza.github.io/)
-* **E-Mail:** [yusufozcetin@proton.me](mailto:yusufozcetin@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-ozcetin) [![E-Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:yusufozcetin@proton.me) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://egoistpizza.github.io/)
+
+---
+
+### 💻 Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
